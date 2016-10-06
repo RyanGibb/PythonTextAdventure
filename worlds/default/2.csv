@@ -1,0 +1,6 @@
+Balcony(orc-warrior/sword knife food),Balcony(/ /fish)
+Start(),#
+#test comment,
+"#"" will not work, use ' -- (actually quotes not nesacary for arguments)",
+"#Balcony((enemies), (items))  =  Balcony((""dwarf warrior"", ""goblin""[for moster enemies only race]), (""sword""))  =  Balcony(/dwarf-warrior goblin/sword",
+"#Balcony((), (""sword))  =  Balcony(/ /sword)",
